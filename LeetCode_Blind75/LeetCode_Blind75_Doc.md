@@ -4,7 +4,7 @@
 | #  | Date       | Item          | Difficulty | Completed | Language | Filename |
 |----|------------|---------------|------------|-----------|----------|----------|
 | 1  |20241002|[two sum](https://leetcode.com/problems/two-sum/)|easy |     ✅     |python|twosum.py|
-| 2  |            |               |            |           |          |          |
+| 2  |20241003|[best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|easy|     ✅     |python|besttime2buy.py|
 | 3  |            |               |            |           |          |          |
 | 4  |            |               |            |           |          |          |
 | 5  |            |               |            |           |          |          |
