@@ -9,10 +9,10 @@ Write ups for various leet code or adjacent projects I have completed
 | 1  |20241002|[two sum](https://leetcode.com/problems/two-sum/)|easy |✅|python|two_sum.py|
 | 2  |20241003|[best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|easy|✅|python|best_time_2_buy.py|
 | 3  |20241003|[contains duplicate](https://leetcode.com/problems/contains-duplicate/)|easy|✅|python|contains_duplicate.py|
-| 4  |            |[copy of array except self](https://leetcode.com/problems/product-of-array-except-self/)|            |           |          |          |
+| 4  |20241003|[copy of array except self](https://leetcode.com/problems/product-of-array-except-self/)|medium|✅|python|copy_except_self.py|
 | 5  |            |[maximum subarray](https://leetcode.com/problems/maximum-subarray/)|            |           |          |          |
 | 6  |            |[maximum product subarray](https://leetcode.com/problems/maximum-product-subarray/)|            |           |          |          |
-| 7  |            |[find minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|            |           |          |          |
+| 7  |20241003|[find minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|medium|✅|python|find_min_rotated_array.py|
 | 8  |            |[search in rotated array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|            |           |          |          |
 | 9  |            |[3 sum](https://leetcode.com/problems/3sum/)|            |           |          |          |
 | 10 |            |[container with most water](https://leetcode.com/problems/container-with-most-water/)|            |           |          |          |
