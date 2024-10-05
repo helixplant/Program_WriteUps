@@ -15,7 +15,7 @@ Write ups for various leet code or adjacent projects I have completed
 | 7  |20241003|[find minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|medium|✅|python|find_min_rotated_array.py|
 | 8  |20241004|[search in rotated array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|medium|✅|python|search_rotated_array.py|
 | 9  |            |[3 sum](https://leetcode.com/problems/3sum/)|            |           |          |          |
-| 10 |            |[container with most water](https://leetcode.com/problems/container-with-most-water/)|            |           |          |          |
+| 10 |20241004|[container with most water](https://leetcode.com/problems/container-with-most-water/)|medium|           |Java|ContainerWithMostWater.java|
 | 11 |            |[sum of two integers](https://leetcode.com/problems/sum-of-two-integers/)|            |           |          |          |
 | 12 |            |[number of 1 bits](https://leetcode.com/problems/number-of-1-bits/)|            |           |          |          |
 | 13 |            |[couting bits](https://leetcode.com/problems/counting-bits/)|            |           |          |          |
