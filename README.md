@@ -15,9 +15,9 @@ Write ups for various leet code or adjacent projects I have completed
 | 7  |20241003|[find minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|medium|✅|python|find_min_rotated_array.py|
 | 8  |20241004|[search in rotated array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|medium|✅|python|search_rotated_array.py|
 | 9  |            |[3 sum](https://leetcode.com/problems/3sum/)|            |           |          |          |
-| 10 |20241004|[container with most water](https://leetcode.com/problems/container-with-most-water/)|medium|           |Java|ContainerWithMostWater.java|
-| 11 |            |[sum of two integers](https://leetcode.com/problems/sum-of-two-integers/)|            |           |          |          |
-| 12 |            |[number of 1 bits](https://leetcode.com/problems/number-of-1-bits/)|            |           |          |          |
+| 10 |20241004|[container with most water](https://leetcode.com/problems/container-with-most-water/)|medium|✅|Java|ContainerWithMostWater.java|
+| 11 |20241005|[sum of two integers](https://leetcode.com/problems/sum-of-two-integers/)|medium|✅|C|SumOfTwoInts.c|
+| 12 |20241005|[number of 1 bits](https://leetcode.com/problems/number-of-1-bits/)|easy|✅|C|NumOfOneBits.c|
 | 13 |            |[couting bits](https://leetcode.com/problems/counting-bits/)|            |           |          |          |
 | 14 |            |[missing number](https://leetcode.com/problems/missing-number/)|            |           |          |          |
 | 15 |            |[reverse bits](https://leetcode.com/problems/reverse-bits/)|            |           |          |          |
