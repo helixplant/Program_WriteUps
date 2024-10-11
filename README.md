@@ -3,7 +3,8 @@ Write ups for various leet code or adjacent projects I have completed
 
 
 ## LeetCode_Blind75_Doc
-### Blind 75 
+### Blind 75
+##### (10/75)
 | #  | Date       | Item          | Difficulty | Completed | Language | Filename |
 |----|------------|---------------|------------|-----------|----------|----------|
 | 1  |20241002|[two sum](https://leetcode.com/problems/two-sum/)|easy |✅|python|two_sum.py|
@@ -19,7 +20,7 @@ Write ups for various leet code or adjacent projects I have completed
 | 11 |20241005|[sum of two integers](https://leetcode.com/problems/sum-of-two-integers/)|medium|✅|C|SumOfTwoInts.c|
 | 12 |20241005|[number of 1 bits](https://leetcode.com/problems/number-of-1-bits/)|easy|✅|C|NumOfOneBits.c|
 | 13 |            |[couting bits](https://leetcode.com/problems/counting-bits/)|            |           |          |          |
-| 14 |            |[missing number](https://leetcode.com/problems/missing-number/)|            |           |          |          |
+| 14 |20241010|[missing number](https://leetcode.com/problems/missing-number/)|easy|✅|python|missing_num.py|
 | 15 |            |[reverse bits](https://leetcode.com/problems/reverse-bits/)|            |           |          |          |
 | 16 |            |[climbing stairs](https://leetcode.com/problems/climbing-stairs/)|            |           |          |          |
 | 17 |            |[coin change](https://leetcode.com/problems/coin-change/)|            |           |          |          |
