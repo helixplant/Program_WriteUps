@@ -44,8 +44,8 @@ Write ups for various leet code or adjacent projects I have completed
 | 35 |            |[insert interval](https://leetcode.com/problems/insert-interval/)|            |           |          |          |
 | 36 |            |[merge interval](https://leetcode.com/problems/merge-intervals/)|            |           |          |          |
 | 37 |            |[non-overlapping intervals](https://leetcode.com/problems/non-overlapping-intervals/)|            |           |          |          |
-| 38 |            |[meeting rooms](https://leetcode.com/problems/meeting-rooms/)|            |           |          |          |
-| 39 |            |[meeting rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|            |           |          |          |
+| 38 |            |[meeting rooms (PREMIUM)](https://leetcode.com/problems/meeting-rooms/)|            |           |          |          |
+| 39 |            |[meeting rooms II (PREMIUM)](https://leetcode.com/problems/meeting-rooms-ii/)|            |           |          |          |
 | 40 |            |[reverse a linked list](https://leetcode.com/problems/reverse-linked-list/)|            |           |          |          |
 | 41 |            |[detect cycle in a linked list](https://leetcode.com/problems/linked-list-cycle/)|            |           |          |          |
 | 42 |            |[merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/)|            |           |          |          |
