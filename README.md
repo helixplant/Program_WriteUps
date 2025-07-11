@@ -60,7 +60,7 @@ Write ups for various leet code or adjacent projects I have completed
 | 51 |            |[longest repeating character replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|            |           |          |          |
 | 52 |            |[minimum window substring](https://leetcode.com/problems/minimum-window-substring/)|            |           |          |          |
 | 53 |            |[valid anagram](https://leetcode.com/problems/valid-anagram/)|            |           |          |          |
-| 54 |            |[valid parentheses](https://leetcode.com/problems/valid-parentheses/)|            |           |          |          |
+| 54 |20250711|[valid parentheses](https://leetcode.com/problems/valid-parentheses/)|easy|✅|python|valid_parentheses.py|
 | 55 |            |[valid palindrome](https://leetcode.com/problems/valid-palindrome/)|            |           |          |          |
 | 56 |            |[longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/)|            |           |          |          |
 | 57 |            |[palindromic substring](https://leetcode.com/problems/palindromic-substrings/)|            |           |          |          |
