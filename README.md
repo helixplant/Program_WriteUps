@@ -4,7 +4,7 @@ Write ups for various leet code or adjacent projects I have completed
 
 ## LeetCode_Blind75_Doc
 ### Blind 75
-##### (10/75)
+##### (12/75)
 | #  | Date       | Item          | Difficulty | Completed | Language | Filename |
 |----|------------|---------------|------------|-----------|----------|----------|
 | 1  |20241002|[two sum](https://leetcode.com/problems/two-sum/)|easy |✅|python|two_sum.py|
@@ -54,7 +54,7 @@ Write ups for various leet code or adjacent projects I have completed
 | 45 |            |[reorder list](https://leetcode.com/problems/reorder-list/)|            |           |          |          |
 | 46 |            |[set matrix zeros](https://leetcode.com/problems/set-matrix-zeroes/)|            |           |          |          |
 | 47 |            |[spiral matrix](https://leetcode.com/problems/spiral-matrix/)|            |           |          |          |
-| 48 |            |[rotate image](https://leetcode.com/problems/rotate-image/)|            |           |          |          |
+| 48 |20250714|[rotate image](https://leetcode.com/problems/rotate-image/)|medium|✅|Java|RotateImage.java|
 | 49 |            |[word search](https://leetcode.com/problems/word-search/)|            |           |          |          |
 | 50 |            |[longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|            |           |          |          |
 | 51 |            |[longest repeating character replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|            |           |          |          |
